@@ -1,38 +1,37 @@
-
 h2 {
-    text-align: center;
-    padding: 3%;
-    color:#0dcaf0;
+  text-align: center;
+  padding: 3%;
+  color:#0dcaf0;
 }
 
 .subtitulo {
-    text-align: center;
-    color:#0dcaf0;
-  } 
+  text-align: center;
+  color:#0dcaf0;
+} 
 
-  .bajada {
-   text-align: center;
-   color: black;
+.bajada {
+ text-align: center;
+ color: black;
 
-  }
-  .banner {
-    width: 100%;
-    height: 37%;
-    padding-top: 3%;
-  }
-  
-  .card {
-  display: inline-block;
-  }
+}
+.banner {
+  width: 100%;
+  height: 37%;
+  padding-top: 3%;
+}
 
-  .row {
-    padding: 5em
-  }
+.card {
+display: inline-block;
+}
 
-  .display-4 {
-    padding-top: 0%;
-  }
+.row {
+  padding: 5em
+}
 
-  .card-group {
-    padding: 4em;
-  }
+.display-4 {
+  padding-top: 0%;
+}
+
+.card-group {
+  padding: 4em;
+}
